@@ -1,13 +1,11 @@
-# Trading App
+# AI Trading App
 
 
 
 ## About
-Welcome to my Trading App!
-
-It can connect to Alpaca to get positions and orders, sell and buy stocks.
-
-Credit for UI: [OktarianTB](https://github.com/OktarianTB/stock-trading-simulator) 
+This the repo for AI Startup Hackathon episode 3
+It is a fork from this repo: https://github.com/Louvivien/tradingapp 
+This repo integrated Alpaca to this [OktarianTB](https://github.com/OktarianTB/stock-trading-simulator) 
 
 
 ## Installation
